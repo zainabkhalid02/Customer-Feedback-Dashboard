@@ -2,6 +2,8 @@
 
 ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMmJhMDM1NWItYTg4OS00ODY3LTg2ZTQtN2Q2NzQyNjliMThkIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
 
+<img width="707" alt="Customer Feedback Dashboard" src="https://github.com/user-attachments/assets/5a782b25-709b-4a50-b0cd-c80566bd3189">
+
 ## Problem Statement
 
 Objective: The aim of this project is to develop a Customer Feedback Dashboard for a hotel to analyze and visualize customer feedback data. The dashboard helps in tracking key metrics such as overall customer rating, NPS score, feedback on services, and demographic information. It offers insights into customer satisfaction and areas that need improvement, thus enabling better customer service and operational adjustments.
